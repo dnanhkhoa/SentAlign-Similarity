@@ -8,6 +8,7 @@ The Reference Set contains files manually aligned from the test set.
 
 Trained word2vec model: Vietnamese monolingual data
 https://drive.google.com/file/d/0B30ru5xBKn2uUXlDZFozSzNmc3M/view
+
 The Trained-word2vec-Vietnamese is a word2vec model trained on 22 million sentences of Vietnamese monolingual data.
 
 These data sets are used in the paper:
