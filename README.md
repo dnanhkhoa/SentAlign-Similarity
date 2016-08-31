@@ -1,9 +1,11 @@
 # SentAlign-Similarity
 
 Test Set
+
 The Test Set includes 63 pairs of English-Vietnamese files.
 
 Reference Set
+
 The Reference Set contains files manually aligned from the test set.
 
 Trained word2vec model: Vietnamese monolingual data
